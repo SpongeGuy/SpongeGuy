@@ -1,4 +1,4 @@
-Hey bud. Hobbyist programmer, gamedev dabbler.
+Hey bud. Student programmer, gamedev dabbler.
 Currently working on [an experimental inventory system.](https://github.com/SpongeGuy/inventory_system)
 
 
