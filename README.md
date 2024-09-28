@@ -1,4 +1,4 @@
-Hey bud. Student software developer, gamedev dabbler.
+Hey bud. I'm a student software developer and gamedev dabbler. Good to meet you.
 Currently working on [an experimental inventory system.](https://github.com/SpongeGuy/inventory_system)
 
 
